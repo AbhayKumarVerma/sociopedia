@@ -49,4 +49,13 @@ Copy code
 npm run dev   # Runs both frontend and backend
 5️⃣ Access the app:
 Open your browser and visit: http://localhost:3000.
+🤝 Contributing
+We welcome contributions! Whether you're improving the platform, reporting issues, or suggesting new features, your involvement is appreciated. Here's how you can contribute:
 
+Fork the repository.
+Create a branch for your feature: git checkout -b feature-name
+Commit your changes: git commit -m "Add new feature"
+Push to the branch: git push origin feature-name
+Submit a pull request for review.
+🎉 Closing
+Thank you for exploring Sociopedia! We hope this platform helps strengthen the alumni network of IIIT Lucknow, making it easier to stay connected and engaged. Happy coding, and feel free to contribute and collaborate!
