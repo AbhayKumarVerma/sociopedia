@@ -29,19 +29,19 @@ Follow these steps to set up Sociopedia on your local machine:
 
    Install the necessary dependencies:
 
-bash
+```bash
 Copy code
 npm install   # For both frontend and backend
 Set up the environment variables:
 
 Copy the example environment file and update the necessary configurations:
 
-bash
+```bash
 Copy code
 cp .env.example .env
 Run the application:
 
-bash
+```bash
 Copy code
 npm run dev   # Runs both frontend and backend
 Access the app at http://localhost:3000.
