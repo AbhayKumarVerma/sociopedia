@@ -64,7 +64,7 @@ const Login = () => {
     <div className='flex justify-center items-center w-screen h-screen'>
       <div className='flex items-center justify-evenly w-[80%]'>
         <div>
-          <img className='ml-5' width={"500px"} src="https://download.logo.wine/logo/Facebook_Messenger/Facebook_Messenger-Logo.wine.png" alt="twitter-logo" />
+          <img className='ml-5' width={"500px"} src="https://imgs.search.brave.com/IrUxvc3niqpLy9DPCnnb9Zm0EU_IqvMzb2zTXOBMvXA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Mi8yMC9JbmRpYW5f/SW5zdGl0dXRlX29m/X0luZm9ybWF0aW9u/X1RlY2hub2xvZ3kl/MkNfTHVja25vd19M/b2dvLnBuZy81MTJw/eC1JbmRpYW5fSW5z/dGl0dXRlX29mX0lu/Zm9ybWF0aW9uX1Rl/Y2hub2xvZ3klMkNf/THVja25vd19Mb2dv/LnBuZw" alt="twitter-logo" />
         </div>
         <div>
           <div className='my-5'>
